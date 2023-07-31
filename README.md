@@ -43,21 +43,21 @@ def SM3_birthday_attack(n):
 
 16bit攻击时间：
 
-<img src="https://github.com/1-14/Project1/blob/main/1.png" width="500px">
+<img src="https://github.com/1-14/Project01/blob/main/1.png" width="500px">
 
 24bit攻击时间：
 
-<img src="https://github.com/1-14/Project1/blob/main/2.png" width="500px">
+<img src="https://github.com/1-14/Project01/blob/main/2.png" width="500px">
 
 32bit攻击时间：
 
-<img src="https://github.com/1-14/Project1/blob/main/3.png" width="500px">
+<img src="https://github.com/1-14/Project01/blob/main/3.png" width="500px">
 
 ## 加入多线程结果展示
 
 32bit攻击时间：
 
-<img src="https://github.com/1-14/Project1/blob/main/4.png" width="500px">
+<img src="https://github.com/1-14/Project01/blob/main/4.png" width="500px">
 
 ## 结果分析
 
