@@ -39,7 +39,7 @@ def SM3_birthday_attack(n):
         else:
             cipher.add(j)
 ```
-## 结果展示：
+## 未加入多线程结果展示：
 
 16bit攻击时间：
 
@@ -52,6 +52,8 @@ def SM3_birthday_attack(n):
 32bit攻击时间：
 
 <img src="https://github.com/1-14/Project1/blob/main/3.png" width="500px">
+
+## 加入多线程结果展示
 
 
 ## 结果分析
